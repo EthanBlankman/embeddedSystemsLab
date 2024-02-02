@@ -1,1 +1,1 @@
-I editied this on github cause I felt like it
+this is the begining of my log for week 4 in embedded systems
